@@ -1,0 +1,15 @@
+{
+  "name": "mc-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para encender/apagar/ver estado de un servidor de Minecraft via Pterodactyl API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
