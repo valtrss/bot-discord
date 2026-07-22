@@ -1,4 +1,4 @@
-# Bot de Discord para el servidor de Minecraft (Prominence II)
+# Bot de Discord para el servidor de Minecraft
 
 Controla tu servidor de GameHost.cl desde Discord con los comandos:
 
